@@ -1,0 +1,121 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+.conatiner{
+    width: 20px;
+    height: 50vh;
+    
+    
+}
+.banner{
+    width: 1440px;
+    height: 625px;
+    text-align: center;
+    margin-top: 145px;
+    margin-left: 91px;
+   
+    background-image: url('../B10A1-Challenge-Begins-main/assets/Hero-bg.png');
+   
+    background-position:20px;
+   border-radius: 10px;
+  
+  
+   
+}
+.banner-text{
+    width: 998px;
+    height: 136px;
+    text-align: center;
+    margin-top: 145px;
+    margin-left: 91px;
+    
+    
+}
+.banner-text h2{
+   font-weight: bold;
+font-size: 25px;
+text-align: center;
+
+}
+#icon{
+    width: 208px;
+    height: 66px;
+    top: 244px;
+    font-size: bold;
+    background-color: rgb(13, 19, 33);
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    
+   
+}
+.begins-main{
+    width: 240.28px;
+    height: 240px;
+    top: 0px;
+    left: 619.14px;
+    -ms-layout-grid-mode: Pass through;
+
+}
+.Development h2 {
+    padding: 500px;
+    border-radius: 15px;
+    display: inline-block;
+    gap: 24px;
+    text-align:center;
+
+}
+
+.section-title text-center{
+    width: 998px;
+    height: 136px;
+    text-align: center;
+    margin-top: 145px;
+    margin-left: 91px;
+}
+.section1{
+    text-align: left;
+}
+.div-section{
+    
+font-weight: 800px;
+font-size: 32px;
+
+
+text-align: center;
+}
+.current target{
+    
+   
+font-weight: 800px;
+
+font-size: 32px;
+height: 136px;
+text-align: center;
+
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    box-sizing: content-box;
+}
+.support Challenge{
+    width: 1440px;
+    height: 625px;
+    text-align: center;
+    margin-top: 145px;
+    margin-left: 91px;
+   
+    background-image: url('../B10A1-Challenge-Begins-main/assets/handshake.jpg');
+   
+    background-position:20px;
+   border-radius: 10px;
+
+}
